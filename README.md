@@ -1,3 +1,3 @@
-# COMP3631 Project Repository
+# COMP3631 Intelligent Systems and Robotics - Project Repository
 "You are asked to implement a program that controls a simulated Turtlebot to find and identify a Cluedo character in an environment. In the environment, there will be two rooms. Your robot needs to enter the “green room”, which has a green circle near its entrance, and identify the character in the room.
 The second room will be a “red room”, with a red circle near its entrance. Your robot should not go into this room. You will work on this project as a group. Your program will be tested using the Turtlebot Gazebo simulation in several different worlds."
