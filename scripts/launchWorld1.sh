@@ -1,1 +1,0 @@
-export TURTLEBOT_GAZEBO_WORLD_FILE=$HOME/catkin_ws/src/group_project/world/project.world; roslaunch turtlebot_gazebo turtlebot_world.launch; roslaunch $HOME/catkin_ws/src/group_project/launch/simulated_localisation.launch; roslaunch $HOME/catkin_ws/src/group_project/launch/simulated_mapping.launch
